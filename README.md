@@ -24,7 +24,7 @@ This project is a compilation of components developed as part of learning throug
 ---
 
 ## 📁 File Structure
-
+```bash
 src/
 ├── components/
 │ ├── Aa.js
@@ -54,7 +54,7 @@ src/
 ├── App.js
 ├── App.css
 └── index.js
-
+```
 
 ---
 
@@ -71,3 +71,8 @@ src/
 git clone https://github.com/shivaaeshala/Fullstack-Codetantra.git
 cd Fullstack-Codetantra
 npm install
+```
+### Running the application
+
+```bash
+npm start
